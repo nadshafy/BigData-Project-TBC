@@ -1,0 +1,2 @@
+﻿model,split_year,training_rows,testing_rows,r_squared,rmse,mae,silhouette_score
+Random Forest,2022,5424,726,0.9727,1554.2673,802.8105,0.5456
