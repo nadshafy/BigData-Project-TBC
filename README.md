@@ -12,13 +12,13 @@
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1  | *(Nama Anggota 1)* | *(NIM)* |
-| 2  | *(Nama Anggota 2)* | *(NIM)* |
-| 3  | *(Nama Anggota 3)* | *(NIM)* |
-| 4  | *(Nama Anggota 4)* | *(NIM)* |
-| 5  | Memory Simanjuntak | *(NIM)* |
-
-> ✏️ *Lengkapi tabel di atas dengan nama dan NIM seluruh anggota kelompok.*
+| 1  | Danar Prayogo | 123140015 |
+| 2  | Memory Simanjuntak | 123140095 |
+| 3  | Refi Ikhsanti | 123140126 |
+| 4  | Gohan Tua J. Ambarita | 123140160 |
+| 5  | Nadya Shafwah Yusuf | 123140167 |
+| 6  | Taufik Hidayat NST | 123140188 |
+| 7  | Bonifasius Ezra Mariano | 123140196 |
 
 ---
 
